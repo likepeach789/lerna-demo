@@ -15,5 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "@foliageya/lerna-child": "^2.0.0"
-  }
+  },
+  "gitHead": "a6e687941ae53f61420082b67fa0187a5e50ef23"
 }
