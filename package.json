@@ -6,5 +6,8 @@
   ],
   "devDependencies": {
     "lerna": "^6.0.1"
+  },
+  "scripts": {
+    "l-publish": "lerna publish"
   }
 }
