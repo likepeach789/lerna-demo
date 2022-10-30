@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@foliageya/lerna-child": "^2.0.0"
+    "@foliageya/lerna-child": "^1.0.0"
   }
 }
